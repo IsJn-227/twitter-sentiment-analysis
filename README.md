@@ -20,7 +20,7 @@ cd twitter-sentiment-analysis
 pip install -r requirements.txt
 
 # 3. Add your Twitter API Bearer Token
-# Open main.py and replace:
+# Open main.py and replace this with your own Twitter bearer token which you can get from Twitter Developer Tools website:
 # bearer_token = "ENTER_YOUR_BEARER_TOKEN_HERE"
 
 # 4. Run the script
