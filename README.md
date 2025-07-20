@@ -1,3 +1,4 @@
+
 \# Twitter Sentiment Analysis 🐦📊
 
 
@@ -53,4 +54,7 @@ This project uses the Twitter API and Python to perform \*\*sentiment analysis\*
 
 
 5\. Enter a topic and view sentiment results in a pie chart
+
+# twitter-sentiment-analysis
+A simple Twitter sentiment analysis tool using Tweepy and TextBlob that visualizes tweet sentiment about any topic using a pie chart
 
